@@ -18,3 +18,6 @@ using the following backbone network architectures:
 
 ## Reference
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
+- [smallcorgi/Faster-RCNN_TF - Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
+- [keras-retinanet - Keras implementation of RetinaNet object detection](https://github.com/fizyr/keras-retinanet)
+- [faster_rcnn - origin Matlab version](https://github.com/ShaoqingRen/faster_rcnn)
