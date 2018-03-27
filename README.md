@@ -2,6 +2,7 @@
 collection of state of art deep learning technologies
 
 # Deep learning for object detection
+- [YOLOv3](https://pjreddie.com/darknet/yolo/)
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870) -- *Marr Prize at ICCV 2017*
 - [RetinaNet](https://arxiv.org/abs/1708.02002) -- *Best Student Paper Award at ICCV 2017*
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
